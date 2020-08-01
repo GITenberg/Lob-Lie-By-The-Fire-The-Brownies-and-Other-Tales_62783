@@ -1,5 +1,8 @@
 _repo: Lob-Lie-By-The-Fire-The-Brownies-and-Other-Tales_62783
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62783-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Ewing, Juliana Horatia Gatty
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '6089'
     url: http://www.gutenberg.org/2009/agents/6089
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62783#Lob-Lie-By-The-Fire-The-Brownies-and-Other-Tales
 gutenberg_issued: '2020-07-28'
 gutenberg_type: Text
 identifiers:
