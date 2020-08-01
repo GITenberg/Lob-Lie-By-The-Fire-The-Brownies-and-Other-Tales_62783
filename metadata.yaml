@@ -1,0 +1,30 @@
+_repo: Lob-Lie-By-The-Fire-The-Brownies-and-Other-Tales_62783
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Ewing, Juliana Horatia Gatty
+    aliases:
+    - Ewing, J. H. (Juliana Horatia)
+    - Ewing, J.H.
+    birthdate: 1841
+    deathdate: 1885
+    gutenberg_agent_id: '1803'
+    url: http://www.gutenberg.org/2009/agents/1803
+    wikipedia: http://en.wikipedia.org/wiki/Juliana_Horatia_Ewing
+  - agent_name: Baden, Frances Henshaw
+    deathdate: 1911
+    gutenberg_agent_id: '6089'
+    url: http://www.gutenberg.org/2009/agents/6089
+description: ''
+gutenberg_issued: '2020-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62783'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lob Lie-By-The-Fire, The Brownies and Other Tales
+url: http://www.gutenberg.org/ebooks/62783
